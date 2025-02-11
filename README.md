@@ -1,5 +1,6 @@
 # Next.js + Jest
 # ming some dem changes
+# making changes for demo purpose
 
 This example shows how to configure Jest to work with Next.js.
 
